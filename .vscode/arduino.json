@@ -1,0 +1,5 @@
+{
+    "sketch": "latihan_IoT.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}
